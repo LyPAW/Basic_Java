@@ -18,11 +18,7 @@ Ideal for study and showcasing Java development skills.
 1. Clone the repository:
 ```bash
 git clone https://github.com/LyPAW/Basic_Java.git
-
-Navigate to the project folder
 cd Basic_Java/TreeDrawing
-
-Run the Java file
 java TreeDrawing.java
 
 
