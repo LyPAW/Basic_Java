@@ -10,3 +10,8 @@ It demonstrates the use of **Object-Oriented Programming (OOP)** concepts, loops
 
 ## 🧠 Author
 **Manuel Fuentes Cruz**
+
+
+<p align="center">
+  <img src="images/tree.png" alt="Java Tree">
+</p>
