@@ -1,10 +1,10 @@
-# 🌳 Proyecto Árbol en Java
+# 🌳 Tree Project in Java
 
-Este proyecto implementa una estructura de datos en Java.  
-Incluye clases, métodos y ejemplos para practicar conceptos de **Programación Orientada a Objetos (POO)**.
+This project implements a data structure in Java.  
+It includes classes, methods, and examples to practice **Object-Oriented Programming (OOP)** concepts.
 
-## 📂 Contenido
-OPPArbol.java
+## 📂 Contents
+OOPArbol.java
 
-## 🧠 Autor
+## 🧠 Author
 **Manuel Fuentes Cruz**
