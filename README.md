@@ -6,7 +6,7 @@ Ideal for study and showcasing Java development skills.
 ## 📂 Projects
 
 ### 1. TreeDrawing
-- Folder: `treedrawing/`
+- Folder: `tree_drawing/`
 - Description: A console-based tree drawing project using Java.  
   Demonstrates OOP concepts, loops, and ANSI color formatting.  
 - Main file: `OOPArbol.java`
