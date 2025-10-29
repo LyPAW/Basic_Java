@@ -138,4 +138,4 @@ Sum of odd numbers from 0 to N = X.
 		}
 		System.out.println("EL RESULTADO DEL EJERCICIO6:");
 		System.out.println("Sum of even numbers from 0 to N :" + h + ".");
-		System.out.println("Sum of odd numbers from 0 to N :" + i + "." + RESET);
+		System.out.println("Sum of odd numbers from 0 to N :" + i + ".");
