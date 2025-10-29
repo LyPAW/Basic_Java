@@ -6,13 +6,13 @@ Ideal for study and showcasing Java development skills.
 ## 📂 Projects
 
 ### 1. TreeDrawing
-- Folder: `treeDrawing/`
+- Folder: `treedrawing/`
 - Description: A console-based tree drawing project using Java.  
   Demonstrates OOP concepts, loops, and ANSI color formatting.  
 - Main file: `OOPArbol.java`
 
 ### 2. Logic and Math Exercises
-- **Folder:** `logic_math_exercises/`  
+- **Folder:** `logic_math_math/`  
 - **Description:** A collection of Java exercises focused on **loops (`for`, `while`, `do-while`)**, arithmetic operations, and basic programming logic.  
 - **Exercises included:**
   1. **Numbers 1 to 10 (`do-while` loop)** – Print numbers 1 to 10.  
