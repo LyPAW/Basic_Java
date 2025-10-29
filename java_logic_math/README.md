@@ -21,7 +21,7 @@ These exercises are ideal for practicing logic, control flow, and arithmetic in 
 9.
 10.
 
-    int a = 1;
+    	int a = 1;
 		
 		System.out.println("RESULT1:");
 		do {
@@ -45,7 +45,7 @@ These exercises are ideal for practicing logic, control flow, and arithmetic in 
 ...
 80.
 
-    int b = 20;
+    	int b = 20;
 		
 		System.out.println("RESULT2:");	
 		while (b < 80){
@@ -65,7 +65,7 @@ These exercises are ideal for practicing logic, control flow, and arithmetic in 
 ...
 50.
 
-    int c;
+    	int c;
 
 		System.out.println("RESULT3:");
 		for ( c = 100; c >= 50; c -= 2){
@@ -79,7 +79,7 @@ These exercises are ideal for practicing logic, control flow, and arithmetic in 
 **Example output:**
 1 x 2 x 3 = 6
 
-    int aleatorio;
+    	int aleatorio;
 		aleatorio = s.nextInt(10);
 		int d = 1;
 		int bucle = 1;
@@ -100,7 +100,7 @@ These exercises are ideal for practicing logic, control flow, and arithmetic in 
 **Example output:**
 1^2 + 2^2 + 3^2 = 14
 
-    int e = 0;
+   		int e = 0;
 		int f = 1;
 		
 		System.out.println("RESULT5:");
@@ -120,7 +120,7 @@ Sum of even numbers from 0 to N = X.
 
 Sum of odd numbers from 0 to N = X.
 
-    aleatorio = s.nextInt(10);
+    	aleatorio = s.nextInt(10);
 		int g = 0;
 		int h = 0;
 		int i = 0;
