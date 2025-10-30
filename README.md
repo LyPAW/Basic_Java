@@ -29,7 +29,10 @@ Ideal for study and showcasing Java development skills.
   3. **Series 100, 98, 96 … 50 (`for` loop)** – Print the decreasing series by 2.  
   4. **Multiplication 1 to N (`do-while` loop)** – Calculate product of numbers 1 to a random `N` (1–10).  
   5. **Sum of squares 1 to N (`while` loop)** – Sum squares of first `N` natural numbers.  
-  6. **Sum of even and odd numbers 1 to N (`for` loop)** – Calculate sums of even and odd numbers separately.  
+  6. **Sum of even and odd numbers 1 to N (`for` loop)** – Calculate sums of even and odd numbers separately.
+  7. **Command-Line Greeting** – Prints `"Hello FirstName LastName"` using command-line arguments.
+  8. **Integer Operations Menu** – Prompts for two integers `(1–10)` and shows a menu to add, subtract, multiply, or divide repeatedly until exit.
+  9. **Prints numbers from 1 up to a specified number** in right-aligned columns as requested by the user.
 
 ## 🧠 Author
 **Manuel Fuentes Cruz**  
