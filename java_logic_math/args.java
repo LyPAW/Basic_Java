@@ -3,7 +3,7 @@ public class doble{
 		int x;
 		
 		for (x = 0; x<args.length; x ++){
-			System.out.println(args[x]);
+			System.out.println("\"" + args[x] + "\"");
 			
 		}
 		
