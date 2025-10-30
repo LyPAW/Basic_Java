@@ -1,3 +1,6 @@
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
 # Basic_Java
 
 This repository contains learning exercises and projects in Java, covering Object-Oriented Programming (OOP), console applications, and basic programming concepts.  
@@ -28,8 +31,17 @@ Ideal for study and showcasing Java development skills.
 ## ⚙️ How to use
 1. Clone the repository:
 ```bash
-git clone https://github.com/LyPAW/Basic_Java.git
-cd Basic_Java/TreeDrawing
-java TreeDrawing.java
+  git clone https://github.com/LyPAW/Basic_Java.git
+  cd Basic_Java/TreeDrawing
+  java TreeDrawing.java
+```
 
+
+
+Copyright © 2025 Manu Fuentes
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+You may share the material with attribution, but you may not use it commercially or create derivatives.
+
+Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
