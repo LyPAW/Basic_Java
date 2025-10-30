@@ -139,3 +139,23 @@ Sum of odd numbers from 0 to N = X.
 		System.out.println("EL RESULTADO DEL EJERCICIO6:");
 		System.out.println("Sum of even numbers from 0 to N :" + h + ".");
 		System.out.println("Sum of odd numbers from 0 to N :" + i + ".");
+
+## 📌 Exercise 7:  
+
+**Description:** This Java program takes a first name and last name as command-line arguments and prints a greeting message including double quotes. 
+
+**Example output:**
+java args.java John Doe
+
+	public class doble{
+		public static void main(String []args){
+			int x;
+		
+			for (x = 0; x<args.length; x ++){
+			System.out.println(args[x]);
+			
+			}
+		
+		
+		}
+	}
